@@ -2,7 +2,7 @@
 	Programa que realiza calculos simples	
 	AUTOR: GABRIEL HENRIQUE CAMPOS SCALICI
 	NUMERO: 9292970
-	DATA:
+	DATA: 15-05-15
 */
 
 #include<stdio.h>
