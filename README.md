@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT4uQF7h39mlsF5czK/giphy.gif"/>
-  <h1 align="center">Complex Networks</h1>
+  <img src="https://media.giphy.com/media/xTiTnGeUsWOEwsGoG4/giphy.gif"/>
+  <h1 align="center">Problemas Simples de Computação</h1>
   <p align="center"> SCC0221 - Introdução à Ciência de Computação I, ICMC - USP.</p>
 </p>
 
