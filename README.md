@@ -10,3 +10,21 @@
 
 # Simple Solutions
 :memo: Problemas simples de computação para aprendizado e treinamento em lógica computacional.
+
+# Alguns tipos de exercício
+
+* Palíndromos
+* Mínimo e máximo de vetores
+* Contagem de letras
+* Tamanho de string
+* Média
+* Média harmônica
+* PA
+* PG
+* Pascal
+* Trasnformação para minúsculo
+* Transformação para maiúsculo
+* Multiplicação de matrizes
+* Trabalho com arquivos
+* Conversão para binário
+* Trabalho com memória HEAP
