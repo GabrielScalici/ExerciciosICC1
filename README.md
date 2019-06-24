@@ -1,2 +1,3 @@
-# ExerciciosICC1
-:memo: Problemas simples para inicio de programação 
+# Simple Solutions
+:memo: Problemas simples de computação para aprendizado e treinamento em lógica computacional.
+
